@@ -3,6 +3,12 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+body {
+    color: #39a6b2;
+    font-family: Helvetica, Arial, sans-serif;
+  }
+
   /* apply styles to <header> */
   header {
       padding: 20px 35px;
@@ -188,6 +194,10 @@
   }
 
   /* your trainers section */
+  .trainers {
+      text-align: center;
+  }
+
 .trainer {
     width: 900px;
     margin: 0 auto 30px auto;
